@@ -4,3 +4,4 @@ I play baseball.
 I am in the 11th grade.
 I am sixteen years old.
 I have curly hair.
+I have 5 dogs.
